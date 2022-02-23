@@ -1,2 +1,2 @@
-# Face-detection
-This repository introduced the face detection project based on Xilinx PYNQ-Z2 architecture
+# 人脸检测
+本仓库内代码的功能是，基于 Xilinx 的 PYNQ-Z2 架构，通过
